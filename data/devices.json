@@ -1,0 +1,24 @@
+{
+  "devices": [
+    {
+      "name": "Smart Light",
+      "power_watts": 10,
+      "usage_hours_per_day": 8
+    },
+    {
+      "name": "Security Camera",
+      "power_watts": 15,
+      "usage_hours_per_day": 24
+    },
+    {
+      "name": "Heater",
+      "power_watts": 1500,
+      "usage_hours_per_day": 1
+    },
+    {
+      "name": "Smart TV",
+      "power_watts": 100,
+      "usage_hours_per_day": 5
+    }
+  ]
+}
